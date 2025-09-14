@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Docker
+.docker/
+
+# IDE
+.vscode/
+.idea/
+f
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Credentials
+credentials/*.json
+credentials/*.pickle
+!credentials/.gitkeep
+
+#environment
+.env
+langraph_mcp_gmail/*
+langraph_mcp_gmail/
+.langraph_mcp_gmail
